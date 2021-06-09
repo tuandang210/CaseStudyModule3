@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.42em;
+    background-color: #dfaaee;
+}
+table{
+    width: 40%;
+    border-collapse: collapse;
+    mso-cellspacing: 5px;
+    margin: 0 auto;
+}
+td {
+    border: 1px solid #7243aa;
+    padding: 8px;
+}
